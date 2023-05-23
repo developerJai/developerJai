@@ -14,7 +14,7 @@
 📞 +91 7834821711
 
 
-# My Stats :chart_with_upwards_trend:
+### My Stats :chart_with_upwards_trend:
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=developerjai&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5" alt="developerjai" />
