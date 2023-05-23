@@ -16,7 +16,7 @@
 
 ### My Stats :chart_with_upwards_trend:
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/developerJai?tab=repositories">
     <img src="https://github-profile-trophy.vercel.app/?username=developerjai&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5" alt="developerjai" />
   </a>
 </p>
@@ -29,18 +29,18 @@
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=developerjai&style=for-the-badge"/></a>
 </p>
  <p align="center">
-  <a href="https://github.com/developerjai/github-readme-streak-stats">
+  <a href="https://github.com/developerJai?tab=repositories">
     <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="developerjai" src="https://github-readme-streak-stats.herokuapp.com/?user=developerjai&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/developerjai/github-readme-stats">
+  <a href="https://github.com/developerJai?tab=repositories">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=developerjai&count_private=true&show_icons=true&custom_title=developerjai's%20Github%20Status&theme=vision-friendly-dark"
     />
    </a>
-  <a href="https://github.com/developerjai/github-readme-stats">
+  <a href="https://github.com/developerJai?tab=repositories">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerjai&layout=compact&theme=vision-friendly-dark" />
