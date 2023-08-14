@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=F7AA6E&background=FFE38500&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi%2C+I+am+Jai+Rajput!;Welcome+to+my+profile." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=3713BF&center=true&vCenter=true&multiline=true&width=800&height=180&lines=Hi%2C+I+am+Jai+Rajput.+Welcome+to+my+profile!;I+am+working+in+Open+AI+Fine-tuning%2C+Vectors+Embeddings%2C;Vector+databases+like+Pinecone%2C+VECTORPG%2C+Redis%2C+etc.;Ruby+on+Rails%2C+Hotwire+-+Turbo%2FStimulus%2C++AWS+Services+etc.+;I+have+over+8+Years+of+industry+experience+in;developing+web+applications+and+maintenance!)](https://git.io/typing-svg)
 
 :telescope: **Experienced**: 
 - Ruby on Rails, GraphQL
