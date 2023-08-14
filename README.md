@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=F7AA6E&background=FFE38500&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi%2C+I+am+Jai+Rajput!;Welcome+to+my+profile." alt="Typing SVG" /></a>
+
 :telescope: **Experienced**: 
 - Ruby on Rails, GraphQL
 - Hotwire - Turbo/Stimulus
