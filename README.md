@@ -13,6 +13,11 @@
 📧 jai@tecorb.com </br>
 📞 +91 7834821711
 
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+<!-- [![Jai's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph) -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+| .      
 
 ### My Stats :chart_with_upwards_trend:
 <p align="center">
