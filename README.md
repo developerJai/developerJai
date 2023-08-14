@@ -16,7 +16,7 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 <!-- [![Jai's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph) -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+![BEPb's github activity graph](https://github.com/developerJai/developerJai/assets/47137013/61e0f707-4af4-4d3a-82da-4fd266b38d83)
 | .      
 
 ### My Stats :chart_with_upwards_trend:
