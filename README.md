@@ -1,8 +1,6 @@
 📞 [Book a call](https://topmate.io/jairajput) <br>
 📧 jai@tecorb.com
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=3713BF&center=true&vCenter=true&multiline=true&width=800&height=180&lines=Hi%2C+I+am+Jai+Rajput.+Welcome+to+my+profile!;I+am+working+in+Open+AI+Fine-tuning%2C+Vectors+Embeddings%2C;Vector+databases+like+Pinecone%2C+VECTORPG%2C+Redis%2C+etc.;Ruby+on+Rails%2C+Hotwire+-+Turbo%2FStimulus%2C++AWS+Services+etc.+;I+have+over+8+Years+of+industry+experience+in;developing+web+applications+and+maintenance!)
-
 :telescope: **Experienced**: 
 - Ruby on Rails, GraphQL
 - Hotwire - Turbo/Stimulus
@@ -13,13 +11,7 @@
 :seedling: **Learning**:
 - AI, Machine Learning
 - DevOps development
-- Flutter development
-
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-<!-- [![Jai's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph) -->
-![BEPb's github activity graph](https://github.com/developerJai/developerJai/assets/47137013/61e0f707-4af4-4d3a-82da-4fd266b38d83)
-| .      
+- Flutter development    
 
 ### My Stats :chart_with_upwards_trend:
 <p align="center">
