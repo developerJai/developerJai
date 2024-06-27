@@ -7,11 +7,12 @@
 - Node, React, Tailwind, Bootstrap
 - Docker, Kubernetes
 - AWS, Google Cloud, Cloudsigma
+- Open AI (Finetuning, Semantic Search-Cluser)
 
 :seedling: **Learning**:
 - AI, Machine Learning
 - DevOps development
-- Flutter development    
+- Flutter development
 
 ### My Stats :chart_with_upwards_trend:
 <p align="center">
