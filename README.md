@@ -10,6 +10,10 @@
     <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
   <a href="https://arc.dev/@developerjai">
     <img src="https://img.shields.io/badge/Arc.dev-4353FF?style=for-the-badge&logoColor=white" alt="Arc"/></a>
+  <a href="https://www.upwork.com/freelancers/~012b085e0a236c1c15">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
+  <a href="https://www.tecorb.com">
+    <img src="https://img.shields.io/badge/tecorb.com-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Tecorb"/></a>
   <a href="https://rubygems.org/gems/groww-mcp">
     <img src="https://img.shields.io/badge/RubyGems-E9573F?style=for-the-badge&logo=rubygems&logoColor=white" alt="RubyGems"/></a>
   <a href="https://www.youtube.com/@WOXYGEN">
