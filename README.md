@@ -75,25 +75,22 @@ gem install groww-mcp
 
 <p align="center">
   <a href="https://github.com/developerJai?tab=repositories">
-    <img src="https://github-profile-trophy.vercel.app/?username=developerjai&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5" alt="trophies"/>
+    <img src="assets/overview.svg" alt="GitHub at a glance"/>
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/developerJai?tab=repositories">
-    <img src="https://streak-stats.demolab.com?user=developerjai&theme=monokai-metallian&hide_border=true" alt="streak"/>
+    <img src="assets/contributions.svg" alt="contribution activity"/>
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/developerJai?tab=repositories">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=developerjai&count_private=true&show_icons=true&custom_title=developerjai's%20GitHub%20Stats&theme=vision-friendly-dark" alt="stats"/>
-  </a>
-  <a href="https://github.com/developerJai?tab=repositories">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerjai&layout=compact&theme=vision-friendly-dark" alt="top languages"/>
+    <img src="assets/languages.svg" alt="languages by code size"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=developerjai&style=for-the-badge&color=236ad3" alt="profile views"/>
 </p>
+
+<sub>Stat cards are generated from live GitHub data by <a href="scripts/gen_stats_cards.py">scripts/gen_stats_cards.py</a> and refreshed weekly by a GitHub Action — no third-party widget services.</sub>

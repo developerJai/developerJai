@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="178" viewBox="0 0 830 178" role="img" aria-label="Languages by code size (public repos)">
+<rect x="0.5" y="0.5" width="829" height="177" rx="12" fill="#0d1130" stroke="#2c3a72"/>
+<text x="24" y="34" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#e6ecff">Languages by code size (public repos)</text>
+<text x="24" y="69" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#e6ecff">Ruby</text>
+<rect x="150" y="56" width="546" height="14" rx="4" fill="#1a2350"/>
+<rect x="150" y="56" width="468.7" height="14" rx="4" fill="#0891b2"/>
+<text x="708" y="68" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b9dc9">85.8%</text>
+<text x="24" y="103" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#e6ecff">HTML</text>
+<rect x="150" y="90" width="546" height="14" rx="4" fill="#1a2350"/>
+<rect x="150" y="90" width="76.8" height="14" rx="4" fill="#7c3aed"/>
+<text x="708" y="102" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b9dc9">14.1%</text>
+<text x="24" y="137" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#e6ecff">Python</text>
+<rect x="150" y="124" width="546" height="14" rx="4" fill="#1a2350"/>
+<rect x="150" y="124" width="3.0" height="14" rx="4" fill="#db2777"/>
+<text x="708" y="136" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b9dc9">0.1%</text>
+</svg>
